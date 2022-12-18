@@ -26,8 +26,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
  <!-- icons -->
  <!-- Java Development -->
 <code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java"></a></code>
-<code><a href = "https://spring.io/"><img height="40" src="https://raw.githubusercontent.com/github/explore/
-8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/spring/spring.png" alt="Spring"></a></code>
+<code><a href = "https://spring.io/"><img height="40" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/spring/spring.png" alt="Spring"></a></code>
 <br>
  <!-- Web Development -->
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></a></code>
